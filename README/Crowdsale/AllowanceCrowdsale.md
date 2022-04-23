@@ -7,11 +7,11 @@
 
 > 所有的众筹合约都要在一个ERC20代币布署成功后再布署众筹合约,布署脚本中已经设置了一个固定总量的ERC20合约
 
-[合约文件: AllowanceCrowdsale.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Crowdsale/AllowanceCrowdsale.sol)
+[合约文件: AllowanceCrowdsale.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Crowdsale/AllowanceCrowdsale.sol)
 
-[测试脚本: AllowanceCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Crowdsale/AllowanceCrowdsale.js)
+[测试脚本: AllowanceCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/test/Crowdsale/AllowanceCrowdsale.js)
 
-[布署脚本: 9_deploy_AllowanceCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/9_deploy_AllowanceCrowdsale.js)
+[布署脚本: 9_deploy_AllowanceCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/migrations/9_deploy_AllowanceCrowdsale.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

@@ -5,15 +5,15 @@
 ### 介绍
 ERC777像ERC20一样，ERC777是可替代令牌的标准，并且专注于在交易令牌时允许更复杂的交互。该标准还带来了多种改进，例如消除了容易引起歧义的decimals，其杀手级功能是发送和接收的钩子。钩子方法是合约中的一个功能，当向其发送和接收代币时会被调用，这意味着账户和合约可以对发送和接收代币做出反应。
 ### 文件
-[合约文件: ERC777Contract.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC777/ERC777Contract.sol)
+[合约文件: ERC777Contract.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC777/ERC777Contract.sol)
 
-[发送接口合约: TokensSender.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC777/TokensSender.sol)
+[发送接口合约: TokensSender.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC777/TokensSender.sol)
 
-[接收接口合约: TokensRecipient.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC777/TokensRecipient.sol)
+[接收接口合约: TokensRecipient.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC777/TokensRecipient.sol)
 
-[测试脚本: ERC777Contract.js](https://github.com/Fankouzu/MintCoin/blob/master/test/ERC777/ERC777Contract.js)
+[测试脚本: ERC777Contract.js](https://github.com/thedownup/MintCoin/blob/master/test/ERC777/ERC777Contract.js)
 
-[布署脚本: 29_deploy_ERC777Contract.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/29_deploy_ERC777Contract.js)
+[布署脚本: 29_deploy_ERC777Contract.js](https://github.com/thedownup/MintCoin/blob/master/migrations/29_deploy_ERC777Contract.js)
 ### 布署
 #### ERC777合约
 在布署合约时定义以下变量

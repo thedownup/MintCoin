@@ -3,11 +3,11 @@
 ## 全功能ERC721代币
 > ERC721代币属于非同质化代币，全功能的ERC721代币包含ERC721的元数据和可枚举功能.
 
-[合约文件: ERC721Full.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC721/ERC721Full.sol)
+[合约文件: ERC721Full.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC721/ERC721Full.sol)
 
-[测试脚本: ERC721Full.js](https://github.com/Fankouzu/MintCoin/blob/master/test/ERC721/ERC721Full.js)
+[测试脚本: ERC721Full.js](https://github.com/thedownup/MintCoin/blob/master/test/ERC721/ERC721Full.js)
 
-[布署脚本: 21_deploy_ERC721Full.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/21_deploy_ERC721Full.js)
+[布署脚本: 21_deploy_ERC721Full.js](https://github.com/thedownup/MintCoin/blob/master/migrations/21_deploy_ERC721Full.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

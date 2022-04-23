@@ -14,4 +14,5 @@ contract ERC20FixedSupply is ERC20, ERC20Detailed {
     ) public ERC20Detailed(name, symbol, decimals) {
         _mint(msg.sender, totalSupply * (10**uint256(decimals)));
     }
+
 }

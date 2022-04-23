@@ -6,7 +6,7 @@ const ERC721 = require('../inc/ERC721');
 //可铸造ERC721代币
 [owner, sender, receiver, purchaser, beneficiary] = accounts;
 EthValue = '10';
-baseURI = 'https://github.com/Fankouzu/MintCoin/blob/master/';
+baseURI = 'https://github.com/thedownup/MintCoin/blob/master/';
 tokenURI = 'token.json';
 let tokenId;
 describe("全功能ERC721代币", function () {

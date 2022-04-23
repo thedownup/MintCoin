@@ -7,11 +7,11 @@
 > 在`cliffDuration`之后的任何时间都可以调用释放方法,释放数额的计算方法为: 锁仓总数额 * ((当前时间 - 开始时间) / 持续时间) - 已释放数
 
 
-[合约文件: ERC20WithTokenVesting.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/ERC20WithTokenVesting.sol)
+[合约文件: ERC20WithTokenVesting.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/ERC20WithTokenVesting.sol)
 
-[测试脚本: ERC20WithTokenVesting.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/ERC20WithTokenVesting.js)
+[测试脚本: ERC20WithTokenVesting.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/ERC20WithTokenVesting.js)
 
-[布署脚本: 28_deploy_ERC20WithTokenVesting.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/28_deploy_ERC20WithTokenVesting.js)
+[布署脚本: 28_deploy_ERC20WithTokenVesting.js](https://github.com/thedownup/MintCoin/blob/master/migrations/28_deploy_ERC20WithTokenVesting.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

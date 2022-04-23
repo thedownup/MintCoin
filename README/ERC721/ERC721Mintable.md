@@ -4,11 +4,11 @@
 > ERC721代币属于非同质化代币，全功能的ERC721代币包含ERC721的元数据和可枚举功能.
 > 可铸造的ERC721代币拥有一个公开的铸造方法,只有铸造管理员可以调用.
 
-[合约文件: ERC721Mintable.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC721/ERC721Mintable.sol)
+[合约文件: ERC721Mintable.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC721/ERC721Mintable.sol)
 
-[测试脚本: ERC721Mintable.js](https://github.com/Fankouzu/MintCoin/blob/master/test/ERC721/ERC721Mintable.js)
+[测试脚本: ERC721Mintable.js](https://github.com/thedownup/MintCoin/blob/master/test/ERC721/ERC721Mintable.js)
 
-[布署脚本: 22_deploy_ERC721Mintable.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/22_deploy_ERC721Mintable.js)
+[布署脚本: 22_deploy_ERC721Mintable.js](https://github.com/thedownup/MintCoin/blob/master/migrations/22_deploy_ERC721Mintable.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

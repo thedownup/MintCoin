@@ -3,11 +3,11 @@
 ## 多功能ERC20代币,可增发,可销毁,可暂停,有封顶
 
 
-[合约文件: ERC20MultiFunction.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/ERC20FixedSupply.sol)
+[合约文件: ERC20MultiFunction.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/ERC20FixedSupply.sol)
 
-[测试脚本: ERC20MultiFunction.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/ERC20FixedSupply.js)
+[测试脚本: ERC20MultiFunction.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/ERC20FixedSupply.js)
 
-[布署脚本: 19_deploy_ERC20MultiFunction.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/19_deploy_ERC20MultiFunction.js)
+[布署脚本: 19_deploy_ERC20MultiFunction.js](https://github.com/thedownup/MintCoin/blob/master/migrations/19_deploy_ERC20MultiFunction.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

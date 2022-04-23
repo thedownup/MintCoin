@@ -21,13 +21,13 @@
 7. 没达到众筹目标,在众筹结束后可以退款
 8. 达到众筹目标,在众筹结束后提取代币
 
-[合约文件: RefundableCrowdsale.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Crowdsale/RefundableCrowdsale.sol)
+[合约文件: RefundableCrowdsale.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Crowdsale/RefundableCrowdsale.sol)
 
-[测试脚本1(到达众筹目标): RefundableCrowdsaleReached.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Crowdsale/RefundableCrowdsaleReached.js)
+[测试脚本1(到达众筹目标): RefundableCrowdsaleReached.js](https://github.com/thedownup/MintCoin/blob/master/test/Crowdsale/RefundableCrowdsaleReached.js)
 
-[测试脚本2(没到达众筹目标): RefundableCrowdsaleNotReach.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Crowdsale/RefundableCrowdsaleNotReach.js)
+[测试脚本2(没到达众筹目标): RefundableCrowdsaleNotReach.js](https://github.com/thedownup/MintCoin/blob/master/test/Crowdsale/RefundableCrowdsaleNotReach.js)
 
-[布署脚本: 18_deploy_RefundableCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/18_deploy_RefundableCrowdsale.js)
+[布署脚本: 18_deploy_RefundableCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/migrations/18_deploy_RefundableCrowdsale.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

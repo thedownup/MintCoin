@@ -6,11 +6,11 @@
 > 快照由内部Snapshot函数创建，该内部函数将发出Snapshot事件并返回快照ID.要获取快照时的总供应量，请totalSupplyAt使用快照ID 调用该函数.要在快照时获取帐户余额，请balanceOfAt使用快照ID和帐户地址调用该函数.
 
 
-[合约文件: ERC20WithSnapshot.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/ERC20WithSnapshot.sol)
+[合约文件: ERC20WithSnapshot.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/ERC20WithSnapshot.sol)
 
-[测试脚本: ERC20WithSnapshot.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/ERC20WithSnapshot.js)
+[测试脚本: ERC20WithSnapshot.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/ERC20WithSnapshot.js)
 
-[布署脚本: 26_deploy_ERC20WithSnapshot.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/26_deploy_ERC20WithSnapshot.js)
+[布署脚本: 26_deploy_ERC20WithSnapshot.js](https://github.com/thedownup/MintCoin/blob/master/migrations/26_deploy_ERC20WithSnapshot.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

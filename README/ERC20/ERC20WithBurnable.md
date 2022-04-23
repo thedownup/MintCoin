@@ -3,11 +3,11 @@
 ## 可销毁代币
 > 可销毁的代币是指代币在发行之后,持有者可以销毁自己持有的代币,也可以通过批准方法让第三方负责销毁.
 
-[合约文件: ERC20WithBurnable.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/ERC20/ERC20WithBurnable.sol)
+[合约文件: ERC20WithBurnable.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/ERC20/ERC20WithBurnable.sol)
 
-[测试脚本: ERC20WithBurnable.js](https://github.com/Fankouzu/MintCoin/blob/master/test/ERC20/ERC20WithBurnable.js)
+[测试脚本: ERC20WithBurnable.js](https://github.com/thedownup/MintCoin/blob/master/test/ERC20/ERC20WithBurnable.js)
 
-[布署脚本: 3_deploy_ERC20WithBurnable.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/3_deploy_ERC20WithBurnable.js)
+[布署脚本: 3_deploy_ERC20WithBurnable.js](https://github.com/thedownup/MintCoin/blob/master/migrations/3_deploy_ERC20WithBurnable.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

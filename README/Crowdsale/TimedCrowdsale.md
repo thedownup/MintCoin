@@ -9,11 +9,11 @@
 
 > 有时限的众筹是指设置了众筹的开始时间和结束时间
 
-[合约文件: TimedCrowdsale.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Crowdsale/TimedCrowdsale.sol)
+[合约文件: TimedCrowdsale.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Crowdsale/TimedCrowdsale.sol)
 
-[测试脚本: TimedCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Crowdsale/TimedCrowdsale.js)
+[测试脚本: TimedCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/test/Crowdsale/TimedCrowdsale.js)
 
-[布署脚本: 14_deploy_TimedCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/14_deploy_TimedCrowdsale.js)
+[布署脚本: 14_deploy_TimedCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/migrations/14_deploy_TimedCrowdsale.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

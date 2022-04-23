@@ -2,11 +2,11 @@
 
 ## 多功能众筹合约:可增发,可销毁,有封顶,有配额,可暂停,有时限,白名单,成功后交付,不成功退款
 
-[合约文件: MultiFunctionCrowdsale.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/MultiFunctionCrowdsale.sol)
+[合约文件: MultiFunctionCrowdsale.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/MultiFunctionCrowdsale.sol)
 
-[测试脚本: MultiFunctionCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/MultiFunctionCrowdsale.js)
+[测试脚本: MultiFunctionCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/MultiFunctionCrowdsale.js)
 
-[布署脚本: 20_deploy_MultiFunctionCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/20_deploy_MultiFunctionCrowdsale.js)
+[布署脚本: 20_deploy_MultiFunctionCrowdsale.js](https://github.com/thedownup/MintCoin/blob/master/migrations/20_deploy_MultiFunctionCrowdsale.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

@@ -4,11 +4,11 @@
 > 代币迁移合约是指在一个ERC20合约布署好之后,因为某种原因,需要放弃原有合约.每个ERC20代币持有者都必须选择参加迁移。要选择加入，用户必须为此合同批准他们要迁移的ERC20代币数量。设置批准后，任何人都可以触发向新代币合同的迁移。这样，代币持有者“上交”他们的旧余额，并将在新ERC20代币中铸造等量的ERC20代币。新的ERC20代币合约必须是可铸造的。旧ERC20代币的余额将遗留在迁移合约中,并永远的遗留在这里.
 
 
-[合约文件: ERC20Migrator.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/ERC20Migrator.sol)
+[合约文件: ERC20Migrator.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/ERC20Migrator.sol)
 
-[测试脚本: ERC20Migrator.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/ERC20Migrator.js)
+[测试脚本: ERC20Migrator.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/ERC20Migrator.js)
 
-[布署脚本: 25_deploy_ERC20Migrator.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/25_deploy_ERC20Migrator.js)
+[布署脚本: 25_deploy_ERC20Migrator.js](https://github.com/thedownup/MintCoin/blob/master/migrations/25_deploy_ERC20Migrator.js)
 
 ### 在布署合约时定义以下变量
 ```javascript

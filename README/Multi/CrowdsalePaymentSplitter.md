@@ -5,11 +5,11 @@
 
 > 股东和股份比例在布署合约时设定,后期不能更改.
 
-[合约文件: CrowdsalePaymentSplitter.sol](https://github.com/Fankouzu/MintCoin/blob/master/contracts/Multi/CrowdsalePaymentSplitter.sol)
+[合约文件: CrowdsalePaymentSplitter.sol](https://github.com/thedownup/MintCoin/blob/master/contracts/Multi/CrowdsalePaymentSplitter.sol)
 
-[测试脚本: CrowdsalePaymentSplitter.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Multi/CrowdsalePaymentSplitter.js)
+[测试脚本: CrowdsalePaymentSplitter.js](https://github.com/thedownup/MintCoin/blob/master/test/Multi/CrowdsalePaymentSplitter.js)
 
-[布署脚本: 27_deploy_CrowdsalePaymentSplitter.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/27_deploy_CrowdsalePaymentSplitter.js)
+[布署脚本: 27_deploy_CrowdsalePaymentSplitter.js](https://github.com/thedownup/MintCoin/blob/master/migrations/27_deploy_CrowdsalePaymentSplitter.js)
 
 ### 在布署合约时定义以下变量
 ```javascript
